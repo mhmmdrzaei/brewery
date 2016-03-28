@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Melissa Perry",
+  "author": "Mohammad Rezaei",
   "license": "ISC",
   "devDependencies": {
     "babel-preset-es2015": "^6.5.0",
